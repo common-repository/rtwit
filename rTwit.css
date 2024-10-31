@@ -1,0 +1,14 @@
+.rtwit-wrapper {
+    max-height: 250px;
+    font-size: 75%;
+    overflow: auto; 
+}
+.rtwit-tweet {
+    margin-bottom: 15px;
+}
+.rtwit-tweet-text {
+
+}
+.rtwit-tweet-date {
+    margin-top: 2px;
+}
